@@ -3,3 +3,40 @@
     height: 500px;
     border: none
     {
+        
+body
+{
+    text-align: center;
+    background: orange;
+}
+
+.movie_head
+{
+    font-size: 200px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.achievement_text span
+{
+    color: whitesmoke;
+}
+
+li
+{
+    font-family: cursive;
+}
+
+h3{
+    font-family: cursive;  
+}
+
+h4{
+    font-family: cursive;
+}
